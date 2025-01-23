@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi 👋
+
+I am a Data Scientist/Machine Learning Engineer living in Germany.
+
+## Projects
+
+Currently, I am following online courses on Generative AI and MLOps tools. As I follow along, I will share my projects here.
+
+Here is a project I worked on as part of hiring process:
+- [From Image To Diagnosis: An ML Pipeline](https://github.com/gekinci/histoGPT_pipeline)
+
+
+
 
 <!--
 **gekinci/gekinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
