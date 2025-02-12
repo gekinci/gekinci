@@ -5,7 +5,7 @@ I am a Data Scientist/Machine Learning Engineer living in Germany.
 ## Projects
 
 Currently, I am following online courses on Generative AI and MLOps tools. As I follow along, I will share my projects here.
-- [What to watch tonight?](https://github.com/gekinci/movie_recommendation)
+- [What to watch tonight?: A recommender system](https://github.com/gekinci/movie_recommendation)
 
 Here is a project I worked on as part of a hiring process:
 - [From Image To Diagnosis: An ML Pipeline](https://github.com/gekinci/histoGPT_pipeline)
